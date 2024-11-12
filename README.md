@@ -14,11 +14,11 @@ To build and execute the solution just follow these steps:
 
 1. **Clone the repository to your machine:**
    ```bash
-   git clone https://github.com/braimanm/test-lab-example.git
+   git clone https://github.com/braimanm/test-lab-example-playwright.git
     ```
 2. **Navigate to project folder:** 
     ```bash 
-    cd test-lab-example
+    cd test-lab-example-playwright
     ```
 3. **Build the solution:**
 
